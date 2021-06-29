@@ -30,6 +30,7 @@ h3 {
 .chicken p {
   background-color: bisque;
   border: 1px solid black;
+
   margin-bottom: 30px;
   padding: 10px;
   padding-top: 40px;
@@ -67,7 +68,7 @@ h3 {
 }
 
 /* Desktop View */
-@media (min-width: 992px) and (max-width: 1200px) {
+@media (min-width: 992px) {
   .chicken,
   .beef,
   .sushi {
